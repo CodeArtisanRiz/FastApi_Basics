@@ -1,11 +1,3 @@
-# python -m pip install fastapi
-# pip install uvicorn
-# python - m uvicorn main: app - -reload
-# GET - GET AN Response
-# POST CREATE SOMETHING NEW
-# PUT - UPDATE
-# DELETE - DELETE SOMETHING
-
 from lib2to3.pgen2.token import OP
 from this import s
 from tokenize import Name
